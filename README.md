@@ -9,11 +9,23 @@ This repository contains a collection of projects showcasing my skills and learn
 - CSS
 - JavaScript
 - React.js
-- Tailwind CSS
+- Tailwind CSS + vite
 - Firebase (Backend Data)
 
 ### Description
 A full-fledged Netflix clone with hands-on experience in React components, state, hooks, client-side React routing, navigation, and form input handling.
+
+## Type verse 
+
+### Tech Stack
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Tailwind CSS
+
+### Description
+This platform allows users to check their typing speed by providing random sentences for them to type.
 
 ## Sign Up/In Page
 

@@ -9,17 +9,14 @@ function Content() {
          <h3 class="text-xl font-bold mb-4"><strong> Netflix Clone</strong></h3>
          <p class="mb-2"><b>Tech stack:</b> HTML, CSS, JAVASCRIPT, REACT JS, TAILWIND CSS, FIREBASE(BACKEND DATA)</p>
           <p>It's an full fledged Netflix Clone.</p>
-          <p><b>Learnings:</b> Gaining hands-on knowledge on the concepts of how React components, state, hooks, client side react routing, navigation in routing, handeling from and form inputs works.  </p>
+          <p><b>Learnings:</b> concepts like components states, conditional rendering, management of hooks, routine with react router, navigation between two routers, handeling form inputs, management of states and apis.  </p>
           <a href="https://github.com/aryyan0701/Netflix_Clone" target="_blank" class="mt-4 block bg-stone-800 text-white py-2 px-4 rounded hover:bg-sky-400">View</a>
           </div>
           <div class="bg-white p-4 rounded shadow">
-          <h3 class="text-xl font-bold mb-4"><strong> Sign Up/In page</strong></h3>
-          <p class="mb-2"><b>Tech stack:</b>HTML, CSS, JAVASCRIPT, REACT(components
-            concepts)</p>
-          <p>UI of this form is like any sign up/sign in form page.</p>
-          <p><b>Learnings:</b> Gaining the hands on knowledge on how to create
-            a react components, how to pass data through the parent components
-            to child components by props.</p>
+          <h3 class="text-xl font-bold mb-4"><strong>Type verse</strong></h3>
+          <p class="mb-2"><b>Tech stack:</b>HTML, CSS, JAVASCRIPT, REACT JS, TAILWIND CSS + VITE. </p>
+          <p>This application allows users to check their typing speed by providing random sentences for them to type.</p>
+          <p><b>Learnings:</b> concepts of reactjs like components states, state management, creation of hooks, conditional rendering, managing user inputs.</p>
           <a href="https://demo-signin-up-page.netlify.app" target="_blank" class="mt-4 block bg-stone-800 text-white py-2 px-4 rounded hover:bg-sky-400">View</a>
         </div>
         <div class="bg-white p-4 rounded shadow">
@@ -47,7 +44,7 @@ function Content() {
           <p>form contains basic details like name, email, password.</p>
           <p><b>Learnings:</b> Gaining the hands on knowledge on how to create
             a express server and run it on the localhost site also gain some
-            basic knowledge]on the react library.</p>
+            basic knowledge on the react library.</p>
           <a href="https://github.com/aryyan0701/react-express" target="_blank" class="mt-9 block bg-stone-800 text-white py-2 px-4 rounded hover:bg-sky-400">View</a>
         </div>
         <div class="bg-white p-4 rounded shadow">
