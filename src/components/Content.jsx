@@ -65,14 +65,15 @@ function Content() {
           <p><b>Learnings:</b> Gaining the hands on knowledge on react js components, props, state and also how to create a hookes.</p>
           <a href="https://github.com/aryyan0701/Todo-list" target="_blank" class="mt-10 block bg-stone-800 text-white py-2 px-4 rounded hover:bg-sky-400">View</a>
         </div>
-      </div>
-      <div class="bg-white p-4 rounded shadow">
+        <div class="bg-white p-4 rounded shadow">
           <h3 class="text-xl font-bold mb-4"><strong>Type verse</strong></h3>
           <p class="mb-2"><b>Tech stack:</b>HTML, CSS, JAVASCRIPT, REACT JS, TAILWIND CSS + VITE. </p>
           <p>This application allows users to check their typing speed by providing random sentences for them to type.</p>
           <p><b>Learnings:</b> concepts of reactjs like components states, state management, creation of hooks, conditional rendering, managing user inputs.</p>
           <a href="https://aryyan0701.github.io/type_verse/" target="_blank" class="mt-4 block bg-stone-800 text-white py-2 px-4 rounded hover:bg-sky-400">View</a>
         </div>
+      </div>
+ 
     </main>
    
   )
