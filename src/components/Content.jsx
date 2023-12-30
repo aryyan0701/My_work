@@ -17,7 +17,7 @@ function Content() {
           <p class="mb-2"><b>Tech stack:</b>HTML, CSS, JAVASCRIPT, REACT JS, TAILWIND CSS + VITE. </p>
           <p>This application allows users to check their typing speed by providing random sentences for them to type.</p>
           <p><b>Learnings:</b> concepts of reactjs like components states, state management, creation of hooks, conditional rendering, managing user inputs.</p>
-          <a href="https://demo-signin-up-page.netlify.app" target="_blank" class="mt-4 block bg-stone-800 text-white py-2 px-4 rounded hover:bg-sky-400">View</a>
+          <a href="https://aryyan0701.github.io/My_work/" target="_blank" class="mt-4 block bg-stone-800 text-white py-2 px-4 rounded hover:bg-sky-400">View</a>
         </div>
         <div class="bg-white p-4 rounded shadow">
           <h3 class="text-xl font-bold mb-4"><strong>Seamless Currency convert</strong></h3>
