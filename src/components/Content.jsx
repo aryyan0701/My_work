@@ -21,6 +21,20 @@ function Content() {
           <a href="https://github.com/aryyan0701/Currency_converter" target="_blank" class="mt-9 block bg-stone-800 text-white py-2 px-4 rounded hover:bg-sky-400">View</a>
         </div>
         <div class="bg-white p-4 rounded shadow">
+          <h3 class="text-xl font-bold mb-4"><strong>Personal Portfolio</strong></h3>
+          <p class="mb-2"><b>Tech stack:</b> HTML, CSS, Javascript, Reactjs+vite, Tailwind css, Github Pages</p>
+          <p> It's my Personal Responsive portfolio dev using react js + vite and tailwind css.</p>
+          <p><b>Learnings:</b> concepts like components states, conditional rendering, management of hooks and states.</p>
+          <a href="https://aryyan0701.github.io/portfolio/" target="_blank" class="mt-9 block bg-stone-800 text-white py-2 px-4 rounded hover:bg-sky-400">View</a>
+        </div>
+        <div class="bg-white p-4 rounded shadow">
+          <h3 class="text-xl font-bold mb-4"><strong>Typescript-Series</strong></h3>
+          <p class="mb-2"><b>Tech stack:</b> Typtscript, Git and Github</p>
+          <p> It is a TypeScript series Beginner's Tutorial! It covers the basics of TypeScript programming language.</p>
+          <p><b>Learnings:</b> concepts of Typescript like introduction, installation, set up,  Variables and Types and much more.  </p>
+          <a href="https://github.com/aryyan0701/Typescript_Series" target="_blank" class="mt-9 block bg-stone-800 text-white py-2 px-4 rounded hover:bg-sky-400">View</a>
+        </div>
+        <div class="bg-white p-4 rounded shadow">
           <h3 class="text-xl font-bold mb-4"><strong> Sign Up/In page</strong></h3>
           <p class="mb-2"><b>Tech stack:</b>HTML, CSS, JAVASCRIPT, REACT(components
             concepts)</p>
